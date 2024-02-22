@@ -1,3 +1,7 @@
+document.getElementById('img-link').addEventListener('click', function () {
+  window.location.href = 'https://bet55h.com/home/subgame?id=80715977&gameCategoryId=20&platformId=20999';
+});
+
 document.addEventListener("DOMContentLoaded", function () {
   let homeSection = document.querySelector('.home');
   homeSection.classList.add('show-animate');
