@@ -27,8 +27,6 @@ window.onscroll = () => {
         document.querySelector('header nav a[href*=' + id + ']').classList.add('active');
       });
       sec.classList.add('show-animate');
-    } else {
-      sec.classList.remove('show-animate');
     }
   });
 
